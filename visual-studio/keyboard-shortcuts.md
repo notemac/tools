@@ -6,3 +6,6 @@
 
 #### Ctrl + Shift + Space
 > Show method overloads (cursor must be within the parentheses of parameters block)
+
+#### Ctrl + R, Ctrl + W
+> Highlight whitespaces to detect spurious free spaces
