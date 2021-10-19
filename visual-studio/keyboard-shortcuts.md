@@ -9,3 +9,9 @@
 
 #### Ctrl + R, Ctrl + W
 > Highlight whitespaces to detect spurious free spaces
+
+#### Ctrl + F12
+> Go to method definition.
+
+#### Ctrl + Shift + Backspace
+> Go to last edit location
