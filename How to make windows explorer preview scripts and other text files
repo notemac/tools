@@ -1,4 +1,5 @@
 [How to make windows explorer preview scripts and other text files](https://superuser.com/questions/1320812/how-to-make-windows-explorer-preview-scripts-and-other-text-files)
+1) Install [*Node.js*](https://nodejs.org/en/)
 The answer came from this link this link as music2myear mentioned but the accepted answer in that link did not work for me.
 
 What worked for me was 2nd answer in the thread. Member user255627 points out the correct key is HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.py which requires attribute PerceivedType   REG_SZ   text.
