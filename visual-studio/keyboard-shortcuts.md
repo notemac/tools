@@ -15,3 +15,7 @@
 
 #### Ctrl + Shift + Backspace
 > Go to last edit location
+
+#### Ctrl + K, Ctrl + X or Ctrl + K, Ctrl + S
+> [Surround code with code snippet](https://riptutorial.com/visual-studio/learn/100006/code-snippets)
+
